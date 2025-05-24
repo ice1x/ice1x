@@ -1,4 +1,4 @@
-## Hi 👋, I'm ilia
+## Hi 👋, I'm ice1x
 Backend Developer with a keen interest in cloud native applications development, data engineering and data science.
 
 <h3 align="left">Connect with me:</h3>
