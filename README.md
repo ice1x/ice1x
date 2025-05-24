@@ -1,5 +1,5 @@
 ## Hi 👋, I'm ice1x
-Backend Developer with a keen interest in cloud native applications development, data engineering and data science.
+Senior Backend Developer with a keen interest in cloud native applications development, data engineering and data science.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -13,9 +13,66 @@ Backend Developer with a keen interest in cloud native applications development,
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
+</a>
+
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+</a>
+
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+</a>
+
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+</a>
+
+<a href="https://redis.io/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
+</a>
+
+
+<h3 align="left">Cloud & Data Platforms:</h3>
+<p align="left">
+
+<!-- AWS -->
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="80" height="30"/>
+</a>
+
+<!-- Azure -->
+<a href="https://azure.microsoft.com" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
+</a>
+
+<!-- GCP -->
+<a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
+</a>
+
+<!-- Databricks -->
+<a href="https://databricks.com" target="_blank" rel="noreferrer">
+  <img src="https://avatars.githubusercontent.com/u/4998052?s=200&v=4" alt="Databricks" width="40" height="40"/>
+</a>
+
+<!-- ClickHouse -->
+<a href="https://clickhouse.com/" target="_blank" rel="noreferrer">
+  <img src="https://avatars.githubusercontent.com/u/49772833?s=200&v=4" alt="clickhouse" width="40" height="40"/>
+</a>
+
+<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
+</a> 
+
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+</a>
+
+<a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40"/>
+</a>
+
+</p>
