@@ -48,6 +48,7 @@
 | [neo4j-mcp](https://github.com/ice1x/neo4j-mcp) | MCP Server for Neo4j graph database | Python |
 | [openrouter-bot](https://github.com/ice1x/openrouter-bot) | Telegram bot for AI models via OpenRouter | Go |
 | [Axum_DAG_Manager](https://github.com/ice1x/Axum_DAG_Manager) | DAG workflow manager | Rust |
+| [Django_DAG_manager](https://github.com/ice1x/Django_DAG_manager) | DAG workflow manager | Python |
 | [prefix_tree](https://github.com/ice1x/prefix_tree) | Name parsing & autocomplete service | Python |
 | [go-prefix-trie](https://github.com/ice1x/go-prefix-trie) | Prefix Trie implementation | Go |
 | [XYZ-to-MOL2-converter](https://github.com/ice1x/XYZ-to-MOL2-converter) | Chemical molecule file format converter | Python |
