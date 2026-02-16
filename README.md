@@ -7,8 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/iliaiakhin/">LinkedIn</a> &middot;
-  <a href="https://github.com/ice1x">GitHub</a>
+  <a href="https://www.linkedin.com/in/iliaiakhin/">LinkedIn</a>
 </p>
 
 ---
