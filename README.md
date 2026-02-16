@@ -1,21 +1,82 @@
-## Hi 👋, I'm ilia
-Backend Developer with a keen interest in cloud native applications development, data engineering and data science.
+<h1 align="center">Ilia Iakhin</h1>
+<h3 align="center">Senior Backend & AI/Data Engineer | Remote</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-<a href="https://stackoverflow.com/users/ice1x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ice1x" height="30" width="40" /></a>
-<a href="https://kaggle.com/iamiljah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="iamiljah" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ice1x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ice1x" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/ice1x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="ice1x" height="30" width="40" /></a>
-
+<p align="center">
+  18+ years in software engineering. Building scalable backends, data pipelines, and AI-powered systems.<br/>
+  Specializing in microservices architecture, RAG/Knowledge Graphs, and workflow orchestration.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<p align="center">
+  <a href="mailto:ilia.iakhin.dev@gmail.com">Email</a> &middot;
+  <a href="https://www.linkedin.com/in/iliaiakhin/">LinkedIn</a> &middot;
+  <a href="https://github.com/ice1x">GitHub</a>
+</p>
+
+---
+
+### About
+
+- Senior Backend Engineer with production experience across **SaaS platforms, IoT/telemetry, OSINT, and chemistry research**
+- Built RAG-based Knowledge Center, Predictive Maintenance platform, data pipelines processing legal & financial data
+- Designed microservices handling Salesforce/HPC integration, workflow orchestration, and real-time monitoring
+- Strong background in QA automation and CI/CD (Parallels, Stoneridge) before transitioning to backend development
+- CS degree from MIET, graduate studies at MIPT
+
+---
+
+### Tech Stack
+
+| Category | Technologies |
+|---|---|
+| **Languages** | Python, SQL |
+| **Backend** | FastAPI, Django/DRF, SQLAlchemy, aiohttp, Celery, Faust |
+| **AI / RAG** | LangChain, LangFuse, Milvus, BERT, NLP (Natasha, Tomita) |
+| **SQL Databases** | PostgreSQL, ClickHouse |
+| **NoSQL / Graph** | Redis, Elasticsearch, Neo4j, NebulaGraph |
+| **Messaging** | Kafka, RabbitMQ |
+| **Infrastructure** | Kubernetes, KubeFlow, Docker, Jenkins, S3 |
+| **MCP Servers** | Neo4j, NebulaGraph |
+| **Also working with** | Go, Rust (with AI coding assistants) |
+
+---
+
+### Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [neo4j-mcp](https://github.com/ice1x/neo4j-mcp) | MCP Server for Neo4j graph database | Python |
+| [openrouter-bot](https://github.com/ice1x/openrouter-bot) | Telegram bot for AI models via OpenRouter | Go |
+| [Axum_DAG_Manager](https://github.com/ice1x/Axum_DAG_Manager) | DAG workflow manager | Rust |
+| [prefix_tree](https://github.com/ice1x/prefix_tree) | Name parsing & autocomplete service | Python |
+| [go-prefix-trie](https://github.com/ice1x/go-prefix-trie) | Prefix Trie implementation | Go |
+| [XYZ-to-MOL2-converter](https://github.com/ice1x/XYZ-to-MOL2-converter) | Chemical molecule file format converter | Python |
+| [shqaff](https://github.com/ice1x/shqaff) | Database-backed task queue | Python |
+| [fastapi_keycloak](https://github.com/ice1x/fastapi_keycloak) | FastAPI with Keycloak auth | Python |
+
+---
+
+### Career Highlights
+
+- **Research Platform & RAG Knowledge Center** — backend for chemistry research, search algorithms for molecular file formats, text reduction and highlight recalculation
+- **Predictive Maintenance Platform** — real-time IoT monitoring, telemetry caching, BI reporting, aerophoto recognition pipelines
+- **OSINT Data Pipelines** — automated data collection across Bankruptcy, Law Courts, Tenders; name-parsing autocomplete service with prefix trie
+- **Workflow Orchestration** — Salesforce & HPC integration, KubeFlow pipelines, microservices architecture design
+- **QA & Automation Foundation** — 10 years of test automation at Parallels (desktop & server virtualization), embedded systems at Stoneridge
+
+---
+
+### Certifications
+
+- AI with Knowledge Graphs: RAG System Mastery
+- Databricks Certified Data Engineer Associate — Preparation
+- Natural Language Processing with Classification and Vector Spaces (DeepLearning.AI)
+- CKA (Certified Kubernetes Administrator) — in progress
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ice1x&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ice1x&layout=compact&hide_border=true" alt="Top Languages" />
+</p>
