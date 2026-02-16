@@ -47,7 +47,6 @@
 | Project | Description | Tech |
 |---|---|---|
 | [neo4j-mcp](https://github.com/ice1x/neo4j-mcp) | MCP Server for Neo4j graph database | Python |
-| [openrouter-bot](https://github.com/ice1x/openrouter-bot) | Telegram bot for AI models via OpenRouter | Go |
 | [Axum_DAG_Manager](https://github.com/ice1x/Axum_DAG_Manager) | DAG workflow manager | Rust |
 | [Django_DAG_manager](https://github.com/ice1x/Django_DAG_manager) | DAG workflow manager | Python |
 | [autocomplete-full-name](https://github.com/ice1x/autocomplete-full-name) | Name parsing & autocomplete service | Python |
