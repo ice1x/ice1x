@@ -73,11 +73,3 @@
 - Natural Language Processing with Classification and Vector Spaces (DeepLearning.AI)
 - CKA (Certified Kubernetes Administrator) — in progress
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ice1x&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ice1x&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
