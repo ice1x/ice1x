@@ -31,8 +31,9 @@
 | **Languages** | Python, SQL |
 | **Backend** | FastAPI, Django/DRF, SQLAlchemy, aiohttp, Celery, Faust |
 | **AI / RAG** | LangChain, LangFuse, Milvus, BERT, NLP (Natasha, Tomita) |
+| **Knowledge Graphs** | Neo4j, NebulaGraph, graph modeling, graph-based RAG, MCP servers |
 | **SQL Databases** | PostgreSQL, ClickHouse |
-| **NoSQL / Graph** | Redis, Elasticsearch, Neo4j, NebulaGraph |
+| **NoSQL** | Redis, Elasticsearch |
 | **Messaging** | Kafka, RabbitMQ |
 | **Cloud** | AWS, Azure, GCP |
 | **Infrastructure** | Kubernetes, KubeFlow, Docker, Jenkins, S3 |
