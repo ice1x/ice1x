@@ -20,7 +20,7 @@
 - Built RAG-based Knowledge Center, Predictive Maintenance platform, data pipelines processing legal & financial data
 - Designed microservices handling Salesforce/HPC integration, workflow orchestration, and real-time monitoring
 - Strong background in QA automation and CI/CD (Parallels, Stoneridge) before transitioning to backend development
-- CS degree from MIET, graduate studies at MIPT
+- CS degree from MIET
 
 ---
 
