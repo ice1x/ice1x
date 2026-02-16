@@ -34,8 +34,8 @@
 | **SQL Databases** | PostgreSQL, ClickHouse |
 | **NoSQL / Graph** | Redis, Elasticsearch, Neo4j, NebulaGraph |
 | **Messaging** | Kafka, RabbitMQ |
-| **Cloud** | AWS, Azure, GCP, Databricks |
-| **Infrastructure** | Kubernetes, KubeFlow, Docker, Terraform, Jenkins, S3 |
+| **Cloud** | AWS, Azure, GCP |
+| **Infrastructure** | Kubernetes, KubeFlow, Docker, Jenkins, S3 |
 | **MCP Servers** | Neo4j, NebulaGraph |
 | **Also working with** | Go, Rust (with AI coding assistants) |
 
