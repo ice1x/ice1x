@@ -1,13 +1,9 @@
-<h1 align="center">Ilia Iakhin</h1>
-<h3 align="center">Senior Backend & AI/Data Engineer | Remote</h3>
+<h1 align="center">ice1x</h1>
+<h3 align="center">Senior Backend & ML/Data Developer | Remote</h3>
 
 <p align="center">
   18+ years in software engineering. Building scalable backends, data pipelines, and AI-powered systems.<br/>
   Specializing in microservices architecture, RAG/Knowledge Graphs, and workflow orchestration.
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/iliaiakhin/">LinkedIn</a>
 </p>
 
 ---
