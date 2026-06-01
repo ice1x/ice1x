@@ -49,6 +49,7 @@
 | [XYZ-to-MOL2-converter](https://github.com/ice1x/XYZ-to-MOL2-converter) | Chemical molecule file format converter | Python |
 | [shqaff](https://github.com/ice1x/shqaff) | Database-backed task queue | Python |
 | [fastapi_keycloak](https://github.com/ice1x/fastapi_keycloak) | FastAPI with Keycloak auth | Python |
+| [smrouter](https://github.com/ice1x/smrouter) | Mirror YouTube live/upcoming broadcasts to Telegram channels | Python |
 
 ---
 
