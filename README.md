@@ -37,6 +37,7 @@
 
 | Project | Description | Tech |
 |---|---|---|
+| [drevo](https://github.com/ice1x/drevo) | Graph / Embedding database - [Docker image](https://hub.docker.com/r/ice1x/drevo) | Rust |
 | [neo4j-mcp](https://github.com/ice1x/neo4j-mcp) | MCP Server for Neo4j graph database | Python |
 | [Axum_DAG_Manager](https://github.com/ice1x/Axum_DAG_Manager) | DAG workflow manager | Rust |
 | [Django_DAG_manager](https://github.com/ice1x/Django_DAG_manager) | DAG workflow manager | Python |
