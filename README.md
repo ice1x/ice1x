@@ -39,7 +39,7 @@
 |---|---|---|
 | [DNA_RAG](https://github.com/ice1x/DNA_RAG) | LLM pipeline for analysing personal DNA data (23andMe, AncestryDNA, VCF) | Python |
 | [century_of_war](https://github.com/ice1x/century_of_war) | Interactive timeline of 1,000+ military conflicts (1900–present) | Python |
-| drevo 🔒 *(private)* · [Docker image](https://hub.docker.com/r/ice1x/drevo) | Embeddable graph database in Rust — storage engine for a cross-platform graph notebook (Obsidian-like) | Rust |
+| drevo 🔒 *(private)* · `docker pull ice1x/drevo` | Embeddable graph database in Rust — storage engine for a cross-platform graph notebook (Obsidian-like) | Rust |
 | [football-api-mcp](https://github.com/ice1x/football-api-mcp) | MCP Server for football-data.org API | Python |
 | [neo4j-mcp](https://github.com/ice1x/neo4j-mcp) | MCP Server for Neo4j graph database | Python |
 | [Axum_DAG_Manager](https://github.com/ice1x/Axum_DAG_Manager) | DAG workflow manager | Rust |
