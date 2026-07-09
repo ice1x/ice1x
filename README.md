@@ -48,6 +48,7 @@
 | [autocomplete-full-name](https://github.com/ice1x/autocomplete-full-name) | Name parsing & autocomplete service | Python |
 | [prefix_tree](https://github.com/ice1x/prefix_tree) | Prefix tree data structure | Python |
 | [go-prefix-trie](https://github.com/ice1x/go-prefix-trie) | Prefix Trie implementation | Go |
+| [rust_prefix_tree](https://github.com/ice1x/rust_prefix_tree) | Prefix tree data structure | Rust |
 | [XYZ-to-MOL2-converter](https://github.com/ice1x/XYZ-to-MOL2-converter) | Chemical molecule file format converter | Python |
 | [shqaff](https://github.com/ice1x/shqaff) | Database-backed task queue | Python |
 | [fastapi_keycloak](https://github.com/ice1x/fastapi_keycloak) | FastAPI with Keycloak auth | Python |
