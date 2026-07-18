@@ -11,7 +11,7 @@
 
 - **Senior Platform Engineer** · Cloud Integration & Automation
 - **Senior Data Platform Engineer**
-  - **Research Platform** — low-code/no-code data-pipeline platform on KubeFlow; added HPC execution so pipeline steps run on remote clusters, pluggable S3 external file storage, a web-VSCode editor running in the user's pod for editing pipeline steps, CSV import/export for the ClickHouse tabular-data integration, and a backend microservice converting client molecule files into the format the platform's molecule-rendering frontend needs
+  - **Research Platform** — low-code/no-code data platform on KubeFlow; added HPC execution so pipeline steps run on remote clusters, pluggable S3 external file storage, a web-VSCode editor running in the user's pod for editing pipeline steps, CSV import/export for the ClickHouse tabular-data integration, and a backend microservice converting client molecule files into the format the platform's molecule-rendering frontend needs
   - **RAG Knowledge Center** — bm25 highlights: new indexers, result post-processing, a chunk-with-highlights concatenation algorithm, minor bug fixes
   - separately, for a different division (a few months, unrelated to the platform work above) — Salesforce data pipelines (Kubernetes jobs, Python, Kafka) for Acronis / Constructor Learning Platform (LMS)
 - **Data Platform Engineer** · Predictive Monitoring & Maintenance (PMM), industrial clients — real-time IoT monitoring, telemetry caching, BI reporting; Argo Workflows and Kafka/Faust applications for aerophoto recognition pre-/post-processing
@@ -19,7 +19,7 @@
 Earlier:
 
 - **OSINT Data Pipelines** — automated collection across Bankruptcy, Law Courts, Tenders; name-parsing autocomplete with prefix trie
-- **QA & Automation** — 10 years of test automation at Parallels (desktop & server virtualization), embedded systems at Stoneridge
+- **QA & Automation** — 11 years of test automation at Parallels (desktop & server virtualization), embedded systems at Stoneridge
 
 ---
 
