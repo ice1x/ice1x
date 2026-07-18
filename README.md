@@ -43,6 +43,7 @@
 | [drevo-mcp](https://github.com/ice1x/drevo-mcp) | FastMCP server exposing the drevo graph database to AI clients (Claude, Cline, OpenCode) as MCP tools — graph traversal, full-text search, node inspection | Python |
 | [football-api-mcp](https://github.com/ice1x/football-api-mcp) | MCP Server for football-data.org API | Python |
 | [neo4j-mcp](https://github.com/ice1x/neo4j-mcp) | MCP Server for Neo4j graph database | Python |
+| [SoundForge](https://github.com/ice1x/SoundForge) | Native audio editor for Apple Silicon | Rust |
 | [Axum_DAG_Manager](https://github.com/ice1x/Axum_DAG_Manager) | DAG workflow manager | Rust |
 | [Django_DAG_manager](https://github.com/ice1x/Django_DAG_manager) | DAG workflow manager | Python |
 | [autocomplete-full-name](https://github.com/ice1x/autocomplete-full-name) | Name parsing & autocomplete service | Python |
