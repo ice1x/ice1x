@@ -10,8 +10,8 @@
 ### Experience
 
 - **Senior Platform Engineer** · Cloud Integration & Automation
-- **Senior Data Platform Engineer** · Research Platform — RAG Knowledge Center for chemistry research: search over molecular file formats, text reduction and highlight recalculation
-- **Data Platform Engineer** · Predictive Monitoring & Maintenance (PMM), industrial clients — real-time IoT monitoring, telemetry caching, BI reporting; Salesforce & HPC integration and KubeFlow pipelines for aerophoto recognition pre-/post-processing; microservices design
+- **Senior Data Platform Engineer** · Research Platform — RAG Knowledge Center for chemistry research (search over molecular file formats, text reduction and highlight recalculation); Salesforce & HPC integration, KubeFlow pipelines, microservices design
+- **Data Platform Engineer** · Predictive Monitoring & Maintenance (PMM), industrial clients — real-time IoT monitoring, telemetry caching, BI reporting; Argo Workflows and Kafka/Faust applications for aerophoto recognition pre-/post-processing
 
 Earlier:
 
