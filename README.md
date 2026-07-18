@@ -1,18 +1,25 @@
 <h1 align="center">ice1x</h1>
-<h3 align="center">Senior Backend Developer & ML/Data Engineer  | Remote</h3>
+<h3 align="center">Senior Data Platform Engineer | Remote</h3>
 
 <p align="center">
-  19+ years in software engineering. Building scalable backends, data pipelines, and AI-powered systems.<br/>
-  Specializing in microservices architecture, RAG/Knowledge Graphs, and workflow orchestration.
+  20+ years in software engineering. Building scalable backends, data platforms, and AI/RAG systems.
 </p>
 
 ---
 
-### About
+### Experience
 
-- Senior Backend Engineer with production experience across **SaaS platforms, IoT/telemetry, OSINT, and chemistry research**
-- Built RAG-based Knowledge Center, Predictive Maintenance platform, data pipelines processing legal & financial data
-- Designed microservices handling Salesforce/HPC integration, workflow orchestration, and real-time monitoring
+- **Senior Platform Engineer** · Cloud Integration & Automation
+- **Senior Data Platform Engineer**
+  - **Research Platform** — low-code/no-code data-pipeline platform on KubeFlow for chemistry research (search over molecular file formats); added HPC execution so pipeline steps run on remote clusters, pluggable S3 external file storage, a web-VSCode editor running in the user's pod for editing pipeline steps, and CSV import/export for the ClickHouse tabular-data integration
+  - **RAG Knowledge Center** — bm25 highlights: new indexers, result post-processing, a chunk-with-highlights concatenation algorithm, minor bug fixes
+  - separately, for a different division (a few months, unrelated to the platform work above) — Salesforce data pipelines (Kubernetes jobs, Python, Kafka) for Acronis / Constructor Learning Platform (LMS)
+- **Data Platform Engineer** · Predictive Monitoring & Maintenance (PMM), industrial clients — real-time IoT monitoring, telemetry caching, BI reporting; Argo Workflows and Kafka/Faust applications for aerophoto recognition pre-/post-processing
+
+Earlier:
+
+- **OSINT Data Pipelines** — automated collection across Bankruptcy, Law Courts, Tenders; name-parsing autocomplete with prefix trie
+- **QA & Automation** — 10 years of test automation at Parallels (desktop & server virtualization), embedded systems at Stoneridge
 
 ---
 
@@ -54,16 +61,6 @@
 | [shqaff](https://github.com/ice1x/shqaff) | Database-backed task queue | Python |
 | [fastapi_keycloak](https://github.com/ice1x/fastapi_keycloak) | FastAPI with Keycloak auth | Python |
 | [smrouter](https://github.com/ice1x/smrouter) | Mirror YouTube live/upcoming broadcasts to Telegram channels | Python |
-
----
-
-### Career Highlights
-
-- **Research Platform & RAG Knowledge Center** — backend for chemistry research, search algorithms for molecular file formats, text reduction and highlight recalculation
-- **Predictive Maintenance Platform** — real-time IoT monitoring, telemetry caching, BI reporting, aerophoto recognition pipelines
-- **OSINT Data Pipelines** — automated data collection across Bankruptcy, Law Courts, Tenders; name-parsing autocomplete service with prefix trie
-- **Workflow Orchestration** — Salesforce & HPC integration, KubeFlow pipelines, microservices architecture design
-- **QA & Automation Foundation** — 10 years of test automation at Parallels (desktop & server virtualization), embedded systems at Stoneridge
 
 ---
 
