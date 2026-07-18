@@ -18,7 +18,7 @@ Production across **SaaS platforms, IoT/telemetry, OSINT, and chemistry research
 
 Earlier:
 
-- **Workflow Orchestration** — Salesforce & HPC integration, KubeFlow pipelines, microservices design
+- **Workflow Orchestration** — Salesforce & HPC integration, KubeFlow pipelines for aerophoto recognition pre- and post-processing, microservices design
 - **OSINT Data Pipelines** — automated collection across Bankruptcy, Law Courts, Tenders; name-parsing autocomplete with prefix trie
 - **QA & Automation** — 10 years of test automation at Parallels (desktop & server virtualization), embedded systems at Stoneridge
 
