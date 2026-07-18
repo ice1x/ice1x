@@ -2,23 +2,19 @@
 <h3 align="center">Senior Data Platform Engineer | Remote</h3>
 
 <p align="center">
-  20+ years in software engineering. Building scalable backends, data pipelines, and AI-powered systems.<br/>
-  Specializing in microservices architecture, RAG/Knowledge Graphs, and workflow orchestration.
+  20+ years in software engineering. Building scalable backends, data platforms, and AI/RAG systems.
 </p>
 
 ---
 
 ### Experience
 
-Production across **SaaS platforms, IoT/telemetry, OSINT, and chemistry research**.
-
 - **Senior Platform Engineer** · Cloud Integration & Automation
 - **Senior Data Platform Engineer** · Research Platform — RAG Knowledge Center for chemistry research: search over molecular file formats, text reduction and highlight recalculation
-- **Data Platform Engineer** · Predictive Monitoring & Maintenance (PMM) for industrial clients — real-time IoT monitoring, telemetry caching, BI reporting, aerophoto recognition pipelines
+- **Data Platform Engineer** · Predictive Monitoring & Maintenance (PMM), industrial clients — real-time IoT monitoring, telemetry caching, BI reporting; Salesforce & HPC integration and KubeFlow pipelines for aerophoto recognition pre-/post-processing; microservices design
 
 Earlier:
 
-- **Workflow Orchestration** — Salesforce & HPC integration, KubeFlow pipelines for aerophoto recognition pre- and post-processing, microservices design
 - **OSINT Data Pipelines** — automated collection across Bankruptcy, Law Courts, Tenders; name-parsing autocomplete with prefix trie
 - **QA & Automation** — 10 years of test automation at Parallels (desktop & server virtualization), embedded systems at Stoneridge
 
