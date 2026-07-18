@@ -10,7 +10,7 @@
 
 ### Experience
 
-20+ years, production across **SaaS platforms, IoT/telemetry, OSINT, and chemistry research**.
+Production across **SaaS platforms, IoT/telemetry, OSINT, and chemistry research**.
 
 - **Senior Platform Engineer** · Cloud Integration & Automation
 - **Senior Data Platform Engineer** · Research Platform — RAG Knowledge Center for chemistry research: search over molecular file formats, text reduction and highlight recalculation
