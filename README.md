@@ -1,5 +1,5 @@
 <h1 align="center">ice1x</h1>
-<h3 align="center">Senior Backend Developer & ML/Data Engineer  | Remote</h3>
+<h3 align="center">Senior Platform Engineer — Cloud Integration & Automation | Remote</h3>
 
 <p align="center">
   19+ years in software engineering. Building scalable backends, data pipelines, and AI-powered systems.<br/>
@@ -8,11 +8,18 @@
 
 ---
 
-### About
+### Experience
 
-- Senior Backend Engineer with production experience across **SaaS platforms, IoT/telemetry, OSINT, and chemistry research**
-- Built RAG-based Knowledge Center, Predictive Maintenance platform, data pipelines processing legal & financial data
-- Designed microservices handling Salesforce/HPC integration, workflow orchestration, and real-time monitoring
+19+ years, production across **SaaS platforms, IoT/telemetry, OSINT, and chemistry research**.
+
+- **Senior Platform Engineer** · Cloud Integration & Automation — Salesforce & HPC integration, KubeFlow pipelines, workflow orchestration, microservices design
+- **Senior Data Platform Engineer** · Research Platform — RAG Knowledge Center for chemistry research: search over molecular file formats, text reduction and highlight recalculation
+- **Data Platform Engineer** · Predictive Monitoring & Maintenance (PMM) — real-time IoT monitoring, telemetry caching, BI reporting, aerophoto recognition pipelines
+
+Earlier:
+
+- **OSINT Data Pipelines** — automated collection across Bankruptcy, Law Courts, Tenders; name-parsing autocomplete with prefix trie
+- **QA & Automation** — 10 years of test automation at Parallels (desktop & server virtualization), embedded systems at Stoneridge
 
 ---
 
@@ -54,16 +61,6 @@
 | [shqaff](https://github.com/ice1x/shqaff) | Database-backed task queue | Python |
 | [fastapi_keycloak](https://github.com/ice1x/fastapi_keycloak) | FastAPI with Keycloak auth | Python |
 | [smrouter](https://github.com/ice1x/smrouter) | Mirror YouTube live/upcoming broadcasts to Telegram channels | Python |
-
----
-
-### Career Highlights
-
-- **Research Platform & RAG Knowledge Center** — backend for chemistry research, search algorithms for molecular file formats, text reduction and highlight recalculation
-- **Predictive Maintenance Platform** — real-time IoT monitoring, telemetry caching, BI reporting, aerophoto recognition pipelines
-- **OSINT Data Pipelines** — automated data collection across Bankruptcy, Law Courts, Tenders; name-parsing autocomplete service with prefix trie
-- **Workflow Orchestration** — Salesforce & HPC integration, KubeFlow pipelines, microservices architecture design
-- **QA & Automation Foundation** — 10 years of test automation at Parallels (desktop & server virtualization), embedded systems at Stoneridge
 
 ---
 
