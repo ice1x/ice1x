@@ -10,7 +10,10 @@
 ### Experience
 
 - **Senior Platform Engineer** · Cloud Integration & Automation
-- **Senior Data Platform Engineer** · Research Platform — RAG Knowledge Center for chemistry research (search over molecular file formats, text reduction and highlight recalculation); Salesforce & HPC integration, KubeFlow pipelines, microservices design
+- **Senior Data Platform Engineer** — two products plus a cross-team stint:
+  - **Research Platform** — low-code/no-code data-pipeline platform on KubeFlow for chemistry research (search over molecular file formats); added HPC execution so pipeline steps run on remote clusters, pluggable S3 external file storage, a web-VSCode editor running in the user's pod for editing pipeline steps, and CSV import/export for the ClickHouse tabular-data integration
+  - **RAG Knowledge Center** — bm25 highlights: new indexers, result post-processing, a chunk-with-highlights concatenation algorithm, minor bug fixes
+  - separately, for a different division (a few months, unrelated to the platform work above) — Salesforce data pipelines (Kubernetes jobs, Python, Kafka) for Acronis / Constructor Learning Platform (LMS)
 - **Data Platform Engineer** · Predictive Monitoring & Maintenance (PMM), industrial clients — real-time IoT monitoring, telemetry caching, BI reporting; Argo Workflows and Kafka/Faust applications for aerophoto recognition pre-/post-processing
 
 Earlier:
