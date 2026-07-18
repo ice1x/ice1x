@@ -1,5 +1,5 @@
 <h1 align="center">ice1x</h1>
-<h3 align="center">Senior Platform Engineer — Cloud Integration & Automation | Remote</h3>
+<h3 align="center">Senior Data Platform Engineer | Remote</h3>
 
 <p align="center">
   19+ years in software engineering. Building scalable backends, data pipelines, and AI-powered systems.<br/>
