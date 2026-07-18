@@ -12,12 +12,13 @@
 
 20+ years, production across **SaaS platforms, IoT/telemetry, OSINT, and chemistry research**.
 
-- **Senior Platform Engineer** · Cloud Integration & Automation — Salesforce & HPC integration, KubeFlow pipelines, workflow orchestration, microservices design
+- **Senior Platform Engineer** · Cloud Integration & Automation
 - **Senior Data Platform Engineer** · Research Platform — RAG Knowledge Center for chemistry research: search over molecular file formats, text reduction and highlight recalculation
 - **Data Platform Engineer** · Predictive Monitoring & Maintenance (PMM) — real-time IoT monitoring, telemetry caching, BI reporting, aerophoto recognition pipelines
 
 Earlier:
 
+- **Workflow Orchestration** — Salesforce & HPC integration, KubeFlow pipelines, microservices design
 - **OSINT Data Pipelines** — automated collection across Bankruptcy, Law Courts, Tenders; name-parsing autocomplete with prefix trie
 - **QA & Automation** — 10 years of test automation at Parallels (desktop & server virtualization), embedded systems at Stoneridge
 
