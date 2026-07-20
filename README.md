@@ -46,6 +46,7 @@ Earlier:
 |---|---|---|
 | [DNA_RAG](https://github.com/ice1x/DNA_RAG) | LLM pipeline for analysing personal DNA data (23andMe, AncestryDNA, VCF) | Python |
 | [century_of_war](https://github.com/ice1x/century_of_war) | Interactive timeline of 1,000+ military conflicts (1900–present) | Python |
+| [shiva](https://github.com/ice1x/shiva) | Agentic PR code-review bot — n8n workflow that fetches the diff and reviews it with an LLM across configurable categories | Python |
 | drevo 🔒 *(private)* · [Docker image](https://hub.docker.com/r/ice1x/drevo) | Embeddable graph database in Rust — storage engine for a cross-platform graph notebook (Obsidian-like) | Rust |
 | [drevo-mcp](https://github.com/ice1x/drevo-mcp) | FastMCP server exposing the drevo graph database to AI clients (Claude, Cline, OpenCode) as MCP tools — graph traversal, full-text search, node inspection | Python |
 | [football-api-mcp](https://github.com/ice1x/football-api-mcp) | MCP Server for football-data.org API | Python |
