@@ -49,6 +49,7 @@ Earlier:
 | [shiva](https://github.com/ice1x/shiva) | Agentic PR code-review bot — n8n workflow that fetches the diff and reviews it with an LLM across configurable categories | Python |
 | [drevo](https://github.com/ice1x/drevo) · [Docker image](https://hub.docker.com/r/ice1x/drevo) | Embedded graph + vector database in Rust, exposed over MCP as long-term memory for AI agents — Neo4j-compatible Bolt/Cypher, BM25 full-text & HNSW/semantic search; C-FFI/WASM/Python bindings | Rust |
 | [drevo-mcp](https://github.com/ice1x/drevo-mcp) | FastMCP server exposing the drevo graph database to AI clients (Claude, Cline, OpenCode) as MCP tools — graph traversal, full-text search, node inspection | Python |
+| [bladerunner-mcp](https://github.com/ice1x/bladerunner-mcp) · [PyPI](https://pypi.org/project/bladerunner-mcp/) | MCP server for operating remote machines over SSH — run commands, track long-running background processes, transfer files via rsync; hosts are referenced by alias, secrets never enter the conversation | Python |
 | [football-api-mcp](https://github.com/ice1x/football-api-mcp) | MCP Server for football-data.org API | Python |
 | [neo4j-mcp](https://github.com/ice1x/neo4j-mcp) | MCP Server for Neo4j graph database | Python |
 | [SoundForge](https://github.com/ice1x/SoundForge) | Native audio editor for Apple Silicon | Rust |
