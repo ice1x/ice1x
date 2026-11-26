@@ -13,6 +13,7 @@ Backends, data platforms, AI/RAG systems. Previously: predictive monitoring for 
 - [DNA_RAG](https://github.com/ice1x/DNA_RAG) — LLM pipeline for personal DNA data
 - [SecLab](https://github.com/ice1x/SecLab) — no-code / low-code VST synthesizer constructor
 - [cold](https://github.com/ice1x/cold) — VST/AU sampler
+- prefix trie in [Python](https://github.com/ice1x/prefix_tree), [Go](https://github.com/ice1x/go-prefix-trie) and [Rust](https://github.com/ice1x/rust_prefix_tree) — powers [autocomplete-full-name](https://github.com/ice1x/autocomplete-full-name)
 
 ### Stack
 
